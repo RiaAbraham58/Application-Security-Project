@@ -43,4 +43,4 @@ A total of **21 unique security alerts** were identified. Confirmed critical fla
 - Add `X-Content-Type-Options: nosniff`
 
 ## Full Report
-See [l&t project.pdf](./l%26t%20project.pdf) in this repo for the complete write-up, ZAP scan details, and references.
+See [l&t-project report.pdf](./l%26t-project%20report.pdf) in this repo for the complete write-up, ZAP scan details, and references.
